@@ -5,8 +5,6 @@
 
 int main()
 {
-
-
     float num1, num2, result;
     char op = '0';
 
@@ -14,9 +12,9 @@ int main()
 
         printf("======= CALCULATOR 2.0 =======\n\n");
 
-        num1 = num2 = result = 0; //resetar as vari�veis
+        num1 = num2 = result = 0; //resetar as variáveis
 
-        //printing options of calculator
+        //imprime opções da calculadora
         printf(" (1) somar\n");
         printf(" (2) subtrair\n");
         printf(" (3) dividir\n");
